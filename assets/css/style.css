@@ -155,9 +155,6 @@ a {
     color: #ffffff;
 }
 
-.hero .action-btn .search {
-}
-
 /* ==================content======================== */
 .content {
     margin-top: 99px;
@@ -364,7 +361,7 @@ a {
     padding: 50px;
 }
 
-.avata-test {
+.body-main .avata-test {
     width: 380px;
     height: 207px;
     padding: 10px 10px 0;
