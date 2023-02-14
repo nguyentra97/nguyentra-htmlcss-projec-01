@@ -107,7 +107,7 @@ a {
 
 .hero .action {
     /* margin-top: 65px; */
-    margin: 0 auto;
+    margin: 65px auto;
     width: 780px;
     height: 67px;
     display: flex;
@@ -171,6 +171,7 @@ a {
 
 .content .content-blok {
     width: 51%;
+    padding-left: 50px;
 }
 
 .content .img-block .image {
@@ -202,11 +203,6 @@ a {
     margin-left: -67px;
     box-shadow: 0 0 0 10px #fff;
 }
-
-.content .content-blok {
-    padding-left: 20px;
-}
-
 .content .content-title h2 {
     font-weight: 700;
     font-size: 1.6rem;
