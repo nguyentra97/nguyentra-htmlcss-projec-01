@@ -107,7 +107,7 @@ a {
 
 .hero .action {
     /* margin-top: 65px; */
-    margin: 65px;
+    margin: 0 auto;
     width: 780px;
     height: 67px;
     display: flex;
